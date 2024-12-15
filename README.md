@@ -2,7 +2,7 @@
 
 I’m passionate about **Cybersecurity** and currently leading the **Cybersecurity Department** for the Google Developer Student Club (GDSC) at ENET'Com! I'm driven by the mission to spread awareness, knowledge, and hands-on skills in cybersecurity through engaging workshops and competitions.
 
-![Cybersecurity](https://media.giphy.com/media/26FPpXhZZH8QWf6so/giphy.gif)
+![Cybersecurity](https://i.pinimg.com/originals/81/17/6f/81176fb8eb0611b28f28da98de221d5e.gif)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my skills in **offensive security** and **incident response**.
