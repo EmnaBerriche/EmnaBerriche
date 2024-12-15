@@ -29,7 +29,7 @@ I’m passionate about **Cybersecurity** and currently leading the **Cybersecuri
 
 ## 📫 How to Reach Me
 - LinkedIn: [Emna Berriche](https://www.linkedin.com/in/emna-berriche)
-- Email: [berricheemna@gmail.com](mailto:berricheemna@gmail.com)
+- Email: [emna.berriche@enetcom.u-sfax.tn]
 
 Let’s connect and create a safer digital world! 🚀
 
