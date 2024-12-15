@@ -24,7 +24,6 @@ I’m passionate about **Cybersecurity** and currently leading the **Cybersecuri
 ### Cybersecurity Skills
 - **Penetration Testing** (Web, Network, and Wireless)
 - **Cryptography**, **Forensics**
-- **CTF Design** and **Security Competitions**
 - **Incident Response** and **Threat Analysis**
 
 ## 📫 How to Reach Me
