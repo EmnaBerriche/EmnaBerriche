@@ -1,6 +1,38 @@
-- 👋 Hi, I’m @EmnaBerriche
-- 👀 I’m interested in Cybersecurity
-- 📫 How to reach me: www.linkedin.com/in/emna-berriche
+# Hi there, I'm Emna Berriche 👋
+
+I’m passionate about **Cybersecurity** and currently leading the **Cybersecurity Department** for the Google Developer Student Club (GDSC) at ENET'Com! I'm driven by the mission to spread awareness, knowledge, and hands-on skills in cybersecurity through engaging workshops and competitions.
+
+![Cybersecurity](https://media.giphy.com/media/26FPpXhZZH8QWf6so/giphy.gif)
+
+## 🚀 About Me
+- 🔭 I’m currently working on improving my skills in **offensive security** and **incident response**.
+- 🌱 I’m learning more about **DevSecOps** and **network load balancing**.
+- 🎓 I’m an engineering student specializing in **Telecommunications**.
+- 👯 I’m looking to collaborate on projects involving **cybersecurity automation** and **AI integration**.
+- 💬 Ask me about **ethical hacking**, **CTF competitions**, or anything **cybersecurity**!
+
+## ⚡ What I Do
+- 👨‍🏫 Lead and organize hands-on cybersecurity sessions for the GDSC.
+- 🛡️ Focus on **offensive** and **defensive** security techniques, particularly in web application hacking, forensics, and cryptography.
+- 🛠️ Build capture the flag (CTF) challenges to engage students and prepare them for **real-world cybersecurity scenarios**.
+
+## 🛠️ Skills
+### Programming Languages
+- **Java**, **C**, **Python**
+- **HTML**, **JavaScript**, **CSS**, **PHP**
+  
+### Cybersecurity Skills
+- **Penetration Testing** (Web, Network, and Wireless)
+- **Cryptography**, **Forensics**
+- **CTF Design** and **Security Competitions**
+- **Incident Response** and **Threat Analysis**
+
+## 📫 How to Reach Me
+- LinkedIn: [Emna Berriche](https://www.linkedin.com/in/emna-berriche)
+- Email: [berricheemna@gmail.com](mailto:berricheemna@gmail.com)
+
+Let’s connect and create a safer digital world! 🚀
+
 
 <!---
 EmnaBerriche/EmnaBerriche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
