@@ -6,16 +6,15 @@ I’m passionate about **Cybersecurity** and currently leading the **Cybersecuri
 
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my skills in **offensive security** and **incident response**.
-- 🌱 I’m learning more about **DevSecOps** and **network load balancing**.
-- 🎓 I’m an engineering student specializing in **Telecommunications**.
+- 🌱 I’m learning more about **Cybersecurity** and **DevSecOps**.
+- 🎓 I’m an  ICT engineering student..
 - 👯 I’m looking to collaborate on projects involving **cybersecurity automation** and **AI integration**.
 - 💬 Ask me about **ethical hacking**, **CTF competitions**, or anything **cybersecurity**!
 
 ## ⚡ What I Do
 - 👨‍🏫 Lead and organize hands-on cybersecurity sessions for the GDSC.
-- 🛡️ Focus on **offensive** and **defensive** security techniques, particularly in web application hacking, forensics, and cryptography.
-- 🛠️ Build capture the flag (CTF) challenges to engage students and prepare them for **real-world cybersecurity scenarios**.
-
+- 🛡️ Focus on **offensive** and **defensive** security techniques, particularly in Penetration Testing.
+- 
 ## 🛠️ Skills
 ### Programming Languages
 - **Java**, **C**, **Python**
