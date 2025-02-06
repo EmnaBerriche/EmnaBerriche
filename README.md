@@ -1,3 +1,8 @@
+# Hi there, I'm Emna Berriche 👋
+
+I’m passionate about **Cybersecurity** and currently leading the **Cybersecurity Department** for the Google Developer Student Club (GDSC) at ENET'Com! I'm driven by the mission to spread awareness, knowledge, and hands-on skills in cybersecurity through engaging workshops and competitions.
+
+![Cybersecurity](https://i.pinimg.com/originals/81/17/6f/81176fb8eb0611b28f28da98de221d5e.gif)
 # 💫 About Me:
 🔭 I’m currently working on improving my skills in offensive security and incident response.<br>🌱 I’m learning more about Cybersecurity and DevSecOps.<br>🎓 I’m an ICT engineering student..<br>👯 I’m looking to collaborate on projects involving cybersecurity automation and AI integration.<br>💬 Ask me about ethical hacking, CTF competitions, or anything cybersecurity!
 
