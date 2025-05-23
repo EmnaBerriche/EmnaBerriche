@@ -19,9 +19,6 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+about+Cybersecurity;Offensive+Security+%26+Incident+Response;Let's+build+something+secure+%F0%9F%94%92" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/6f/81176fb8eb0611b28f28da98de221d5e.gif" width="300"/>
-</p>
 
 ---
 
