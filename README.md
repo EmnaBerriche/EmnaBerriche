@@ -24,12 +24,17 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 ---
 
 ## 💫 About Me
+🎓 ICT Engineering student at ENET'Com
 
-- 🎓 ICT Engineering student at ENET'Com  
-- 🛡️ Leading the **Cybersecurity Department** at **Google Developer Student Club**  
-- 💻 Currently sharpening my skills in **Offensive Security** & **Incident Response**  
-- 🤖 Exploring the intersection of **Cybersecurity, Automation, and AI**  
-- 🧠 Always curious about **Ethical Hacking**, **CTFs**, and **DevSecOps**
+🛡️ Leading the Cybersecurity Department at the Google Developer Student Club
+
+💻 Sharpening my skills in Offensive Security, Incident Response, and DevSecOps
+
+☁️ Passionate about Cloud Security and securing modern infrastructures
+
+🤖 Exploring the intersection of Cybersecurity, Automation, and AI
+
+🧠 Always curious about Ethical Hacking, CTF Challenges, and innovative security solutions
 
 ---
 
@@ -86,9 +91,10 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 
 
 ### ✍️ Quote of the Day
+### ✍️ Quote of the Day
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Success-%22Hard+work+beats+talent+when+talent+doesn't+work+hard.%22-brightgreen?style=for-the-badge&logo=quote&logoColor=white" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 
