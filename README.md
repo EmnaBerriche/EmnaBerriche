@@ -12,16 +12,7 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 
 🎯 Currently seeking opportunities to contribute to cutting-edge security projects where I can continue developing hands-on skills and grow alongside experienced professionals.
 
----
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Driven+by+Cybersecurity+Curiosity;Exploring+Offensive+Security+%26+IR;Let’s+Secure+the+Future+Together+%F0%9F%94%92" alt="Typing SVG" />
-</p>
-
-
-
----
 
 ## 💫 About Me
 🎓 ICT Engineering student at ENET'Com
