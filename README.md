@@ -84,11 +84,13 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 
 ---
 
+
 ### ✍️ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://img.shields.io/badge/Success-%22Hard+work+beats+talent+when+talent+doesn't+work+hard.%22-brightgreen?style=for-the-badge&logo=quote&logoColor=white" />
 </p>
+
 
 ---
 
@@ -100,11 +102,9 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=EmnaBerriche&icon=0&color=0" alt="visit count"/>
-</p>
 
-<!-- Built with ❤️ by Emna and GPRM (https://gprm.itsvg.in) -->
+
+
 
 
 
@@ -116,3 +116,4 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 </p>
 
 
+<!-- Built with ❤️ by Emna and GPRM (https://gprm.itsvg.in) -->
