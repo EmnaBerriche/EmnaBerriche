@@ -13,15 +13,19 @@ Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, 
 
 
 
+<div style="text-align: left;">
+
 ## About Me
 
 - 🎓 ICT Engineering student at ENET'Com  
-- 🛡️ **Cybersecurity Lead** @ Google Developer Student Club  
-- 🤖 Exploring the integration of **Artificial Intelligence** and **automation** to enhance cybersecurity processes and threat detection  
+- 🛡️ <strong>Cybersecurity Lead</strong> @ Google Developer Student Club  
+- 🤖 Exploring the integration of <strong>Artificial Intelligence</strong> and <strong>automation</strong> to enhance cybersecurity processes and threat detection  
 - 💻 Developing expertise in Offensive Security and Incident Response  
-- ☁️ Passionate about **Cloud Security** and automating the deployment of **secure infrastructure**  
-- 🧠 Continuously advancing skills through **ethical hacking** and hands-on real-world security projects  
-- ⚔️ Competitor & trainer in **CTFs**, always curious about emerging attack/defense tactics  
+- ☁️ Passionate about <strong>Cloud Security</strong> and automating the deployment of <strong>secure infrastructure</strong>  
+- 🧠 Continuously advancing skills through <strong>ethical hacking</strong> and hands-on real-world security projects  
+- ⚔️ Competitor & trainer in <strong>CTFs</strong>, always curious about emerging attack/defense tactics  
+
+</div>
 
 
 ## 💻 Tech Stack
