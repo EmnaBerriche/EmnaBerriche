@@ -40,9 +40,9 @@ Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmnaBerriche&theme=dark&hide_border=false)<br/>
 
 
-
+<br/>
 ### 📌 Top Contributions
-
+<br/>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=EmnaBerriche&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
