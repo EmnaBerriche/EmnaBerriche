@@ -41,19 +41,7 @@ Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmnaBerriche&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmnaBerriche&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EmnaBerriche&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
-### ✍️ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-
----
 
 ### 📌 Top Contributions
 
