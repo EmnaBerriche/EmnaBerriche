@@ -2,32 +2,25 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">                                                       
   </p>                                                                                                            
 <h1 align="center"> I'm Emna Berriche 👋🏽 </h1>                                             
-           ICT Engineering Student|GDSC Cybersecurity Lead & Trainer|🔐 Cybersecurity Enthusiast | 🌩️ Cloud & DevSecOps Explorer                                  
+  🌐 ICT Engineering Student | 🔐 Cybersecurity Lead @ GDSC | 🤖 AI-Driven Security Enthusiast | ☁️ Cloud & DevSecOps Explorer 
 <div align="center">                                               
    
+Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, I’m an engineering student passionate about safeguarding digital systems and exploring the offensive side of security. My journey began with hands-on penetration testing and red team tactics, and it’s now expanding into cloud security, DevSecOps, and the intelligent automation of infrastructure. With a growing interest in how AI can empower both attack and defense strategies, I thrive at the intersection of cybersecurity, innovation, and scalable design.
 
-Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m a motivated engineering student passionate about safeguarding digital landscapes and building secure, scalable infrastructures. My journey blends offensive security interests with a growing focus on cloud security and DevSecOps practices, empowering me to explore both attack surfaces and defense strategies.
+🔎 Whether it’s dissecting a vulnerability, building a custom exploit, or automating threat detection, I thrive at the intersection of problem-solving, creativity, and real-world impact. Known for my proactive mindset and adaptability, I enjoy turning technical challenges into opportunities to learn, innovate, and collaborate.
 
-🔎 Whether it’s dissecting a vulnerability, automating a detection rule, or deploying a secure CI/CD pipeline, I thrive at the intersection of problem-solving, creativity, and real-world impact. Known for my proactive mindset and adaptability, I enjoy turning challenges into opportunities to learn, collaborate, and innovate.
-
-🎯 Currently seeking opportunities to contribute to cutting-edge security projects where I can continue developing hands-on skills and grow alongside experienced professionals.
-
+🎯 I’m currently seeking opportunities to contribute to cutting-edge security projects—especially those at the crossroads of cybersecurity, automation, and AI—where I can deepen my hands-on skills and grow alongside experienced professionals.
 
 
-## 💫 About Me
-🎓 ICT Engineering student at ENET'Com
 
-🛡️ Leading the Cybersecurity Department at the Google Developer Student Club
+## About Me
 
-💻 Sharpening my skills in Offensive Security, Incident Response, and DevSecOps
-
-☁️ Passionate about Cloud Security and securing modern infrastructures
-
-🤖 Exploring the intersection of Cybersecurity, Automation, and AI
-
-🧠 Always curious about Ethical Hacking, CTF Challenges, and innovative security solutions
-
-
+- 🎓 ICT Engineering student at ENET'Com with a strong passion for cybersecurity and digital safety.  
+- 🛡️ Cybersecurity Lead at the Google Developer Student Club, responsible for organizing workshops, Capture The Flag (CTF) events, and practical training sessions.  
+- 💻 Developing expertise in Offensive Security, Incident Response, and DevSecOps methodologies.  
+- ☁️ Passionate about Cloud Security and automating the deployment of secure infrastructure.  
+- 🤖 Exploring the integration of Artificial Intelligence and automation to enhance cybersecurity processes and threat detection.  
+- 🧠 Continuously advancing skills through ethical hacking, CTF challenges, and hands-on real-world security projects.
 
 ## 💻 Tech Stack
 
