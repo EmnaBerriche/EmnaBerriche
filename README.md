@@ -15,12 +15,12 @@ Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, 
 
 ## About Me
 
-- 🎓 ICT Engineering student at ENET'Com with a strong passion for cybersecurity and digital safety.  
-- 🛡️ Cybersecurity Lead at the Google Developer Student Club, responsible for organizing workshops, Capture The Flag (CTF) events, and practical training sessions.  
-- 💻 Developing expertise in Offensive Security, Incident Response, and DevSecOps methodologies.  
-- ☁️ Passionate about Cloud Security and automating the deployment of secure infrastructure.  
-- 🤖 Exploring the integration of Artificial Intelligence and automation to enhance cybersecurity processes and threat detection.  
-- 🧠 Continuously advancing skills through ethical hacking, CTF challenges, and hands-on real-world security projects.
+🎓 ICT Engineering student at ENET'Com
+🛡️ Cybersecurity Lead @ Google Developer Student Club
+🤖 Exploring the integration of Artificial Intelligence and automation to enhance cybersecurity processes and threat detection.    
+💻 Developing expertise in Offensive Security, Incident Response.  
+☁️ Passionate about Cloud Security and automating the deployment of secure infrastructure.  
+🧠 Continuously advancing skills through ethical hacking, CTF challenges, and hands-on real-world security projects.
 
 ## 💻 Tech Stack
 
