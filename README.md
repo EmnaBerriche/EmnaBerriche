@@ -27,17 +27,7 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 
 🧠 Always curious about Ethical Hacking, CTF Challenges, and innovative security solutions
 
----
 
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/emna-berriche/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 ## 💻 Tech Stack
 
@@ -80,8 +70,6 @@ Driven by an unwavering curiosity for the dynamic world of cybersecurity, I’m 
 
 ---
 
-
-### ✍️ Quote of the Day
 ### ✍️ Quote of the Day
 
 <p align="center">
