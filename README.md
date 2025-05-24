@@ -53,15 +53,6 @@ Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmnaBerriche&layout=compact&theme=radical&hide_border=false"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmnaBerriche&theme=radical&no-bg=true&no-frame=false&margin-w=8"/>
-</p>
-
----
 
 ### ✍️ Quote of the Day
 
