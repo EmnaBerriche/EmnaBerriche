@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">                                                       
   </p>                                                                                                            
 <h1 align="center"> I'm Emna Berriche 👋🏽 </h1>                                             
-  🌐 ICT Engineering Student | 🔐 Cybersecurity Lead @ GDSC | 🤖 AI-Driven Security Enthusiast | ☁️ Cloud & DevSecOps Explorer 
+  🌐 ICT Engineering Student | 🔐 Cybersecurity Lead @ GDSC | 🚀 Aspiring Penetration Tester|🤖 AI-Driven Security Enthusiast | ☁️ Cloud & DevSecOps Explorer 
 <div align="center">                                               
    
 Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, I’m an engineering student passionate about safeguarding digital systems and exploring the offensive side of security. My journey began with hands-on penetration testing and red team tactics, and it’s now expanding into cloud security, DevSecOps, and the intelligent automation of infrastructure. With a growing interest in how AI can empower both attack and defense strategies, I thrive at the intersection of cybersecurity, innovation, and scalable design.
@@ -21,9 +21,8 @@ Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, 
 🛡️ <strong>Cybersecurity Lead</strong> @ Google Developer Student Club  
 🤖 Exploring the integration of <strong>Artificial Intelligence</strong> and <strong>automation</strong> to enhance cybersecurity processes and threat detection  
 💻 Developing expertise in Offensive Security and Incident Response  
-☁️ Passionate about <strong>Cloud Security</strong> and automating the deployment of <strong>secure infrastructure</strong>  
 🧠 Continuously advancing skills through <strong>ethical hacking</strong> and hands-on real-world security projects  
-⚔️ Competitor & trainer in <strong>CTFs</strong>, always curious about emerging attack/defense tactics  
+⚔️ Competitor in <strong>CTFs</strong>, always curious about emerging attack/defense tactics  
 
 </div>
 
