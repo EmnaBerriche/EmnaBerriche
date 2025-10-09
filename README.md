@@ -2,10 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">                                                       
   </p>                                                                                                            
 <h1 align="center"> I'm Emna Berriche 👋🏽 </h1>                                             
-  🌐 ICT Engineering Student | 🔐 Cybersecurity Lead @ GDSC | 🚀 Aspiring Penetration Tester|🤖 AI-Driven Security Enthusiast | ☁️ Cloud & DevSecOps Explorer 
+  🌐 ICT Engineering Student | 🔐 Cybersecurity Lead @ GDSC | 🚀 Aspiring Penetration Tester|🤖 AI-Driven Security Enthusiast
 <div align="center">                                               
    
-Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, I’m an engineering student passionate about safeguarding digital systems and exploring the offensive side of security. My journey began with hands-on penetration testing and red team tactics, and it’s now expanding into cloud security, DevSecOps, and the intelligent automation of infrastructure. With a growing interest in how AI can empower both attack and defense strategies, I thrive at the intersection of cybersecurity, innovation, and scalable design.
+Driven by an unwavering curiosity for the ever-evolving world of cybersecurity, I’m an engineering student passionate about safeguarding digital systems and exploring the offensive side of security.  With a growing interest in how AI can empower both attack and defense strategies, I thrive at the intersection of cybersecurity, innovation, and scalable design.
 
 🔎 Whether it’s dissecting a vulnerability, building a custom exploit, or automating threat detection, I thrive at the intersection of problem-solving, creativity, and real-world impact. Known for my proactive mindset and adaptability, I enjoy turning technical challenges into opportunities to learn, innovate, and collaborate.
 
